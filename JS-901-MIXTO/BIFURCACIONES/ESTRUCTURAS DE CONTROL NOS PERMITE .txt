@@ -1,0 +1,25 @@
+ESTRUCTURAS DE CONTROL NOS PERMITE MANEJAR Y TENER MAS CONTROL SOBRE NUESTRO CODIGO YA QUE DE ESTE MODO PODEMOS DARLE LA CORRECTA ORIENTACION EN FUNCION A CIERTAS CONDICIONES
+PARA LO QUE SE USARAN BUCLES  BIFURCACIONES 
+
+BIFURCACIONES
+Las bifurcaciones nos permiten ir por un camino u otro si se cumple una condición vamos por un camino si no vamos por otro (if else)
+
+CODIGO:
+NO UTILIZAR METODOS POR FUNCIONES, CONCATENACIONES Y PEDIR DATOS AL USUARIO. Ese código no se puede utilizar
+
+tarea en el blog y github
+subir al GitHub las bifurcaciones en carpeta
+nueva carpeta practicas esto en el GitHub
+
+ejercicios:
+1.- realizar un programa que muestre una letra de acuerdo a la calificación obtenida. Si el alumno saco de 90 a 100 debe de mostrar la letra A. de 80 a 89 debe mostrar la letra B, si el alumno saco de 70 a 79 mostrara la letra C, de 60 a 69 la letra D, y si no se encuentra en este rango la letra F
+
+2.- realizar un programa que muestre los días de la semana de acuerdo a los números del 1 al 7 (lunes = 1, martes = 2, miércoles = 3, ...,  domingo = 7)
+
+3.- realizar un programa que calcule el descuento de una compra dependiendo de los articulos comprados de 5 a 10 el descuento sera del 5%, de 11 a 20 el 10% y arriba de 20 el 15%. Si no alcanzara los 4 articulos no aplica descuento
+
+4.- realizar un programa que calcule el precio final de una compra con descuento y agrega impuestos. aqui se calcula el precio de 0 a 599 no aplica de 600 a 999 el 5%, de 1000 a 1999 el 10% descuento de 2000 en adelante el 15% una ves sacado el total se calcula el iva y se suma 16%iva 
+
+5.- realizar un programa que realice operaciones basicas matematicas segun el operador proporcionado suma resta multiplicacion y division, declarar una variante en 0 para que marque cero. 
+
+dejar una variable en N para que el profe pueda modificar, declarada con el tipo que quiero = y el signo ? para que pueda haber modificaciones en ves de Q1 es N
